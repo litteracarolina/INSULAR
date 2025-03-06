@@ -1,0 +1,20 @@
+{
+  "collection": "https://gist.githubusercontent.com/litteracarolina/b0494a3e3e7bc6fc68015143a85ae3f6/raw/4f70cbc178be677bbad03739f77e8c2e2f102d1f/gistfile1",
+  "featured": [
+  "https://lib.is/IE5258806/manifest",
+  "https://bvmm.irht.cnrs.fr/iiif/24987/manifest",
+  "http://bvmm.irht.cnrs.fr/iiif/81/manifest"
+  ],
+  "metadata": ["Date", "Subject"],
+  "label": { "en": ["INSULAR IIIF Collection"] },
+  "summary": {
+    "en": ["The IIIF collection for the INSULAR ERC/UKRI project."]
+  },
+  "theme": {
+    "defaultTheme": "light",
+    "accentColor": "red",
+    "grayColor": "mauve",
+    "radius": "small",
+    "scaling": "100%"
+  }
+}
