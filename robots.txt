@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://litteracarolina.github.io/INSULAR
+
+# Sitemaps
+Sitemap: https://litteracarolina.github.io/INSULAR/sitemap.xml
