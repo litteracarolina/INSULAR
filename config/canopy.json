@@ -4,7 +4,7 @@
   "https://lib.is/IE5258806/manifest",
   "https://bvmm.irht.cnrs.fr/iiif/24987/manifest",
   "http://bvmm.irht.cnrs.fr/iiif/81/manifest"
-  ]
+  ],
   "label": { "en": ["INSULAR IIIF Collection"] },
   "summary": {
     "en": ["The IIIF collection for the INSULAR ERC/UKRI project."]
