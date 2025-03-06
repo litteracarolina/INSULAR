@@ -1,9 +1,9 @@
 {
-  "collection": "https://api.dc.library.northwestern.edu/api/v2/search?query=%22nez%20perce%22&as=iiif&size=125",
-  "metadata": ["Subject", "Date", "Dimensions"],
+  "collection": "https://gist.githubusercontent.com/litteracarolina/b0494a3e3e7bc6fc68015143a85ae3f6/raw/4f70cbc178be677bbad03739f77e8c2e2f102d1f/gistfile1",
   "featured": [
-    "https://api.dc.library.northwestern.edu/api/v2/works/cd5e1b9c-370b-40e5-b3d9-defc1d8e0777?as=iiif",
-    "https://api.dc.library.northwestern.edu/api/v2/works/14a6aa15-9e12-47a7-9617-91f430d4f47b?as=iiif"
+  "https://lib.is/IE5258806/manifest",
+  "https://bvmm.irht.cnrs.fr/iiif/24987/manifest",
+  "http://bvmm.irht.cnrs.fr/iiif/81/manifest"
   ],
   "locales": [
     {
